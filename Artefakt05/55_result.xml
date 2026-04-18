@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test_report project="Appium_Audit">
+    <issue feature="Identyfikacja Aplikacji" status="ZGODNY">Pakiet io.appium.android.apis poprawnie zmapowany.</issue>
+    <issue feature="Dostępność UI" status="INFORMACJA">Nie odnaleziono ID 'ACCESSIBILITY'. Sugestia: Zweryfikuj czy element nie zmienił nazwy na jedną z dostępnych: ['ACTION_BAR_TITLE', 'ACTION_BAR_SUBTITLE', 'ACTION_MODE_CLOSE_BUTTON'].</issue>
+</test_report>
