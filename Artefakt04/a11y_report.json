@@ -1,0 +1,8 @@
+[
+    {
+        "file": "layout\\text_fields.xml",
+        "id": "edit1Text",
+        "text": "@string/edit_text_password",
+        "issue": "Brak atrybutu contentDescription"
+    }
+]
